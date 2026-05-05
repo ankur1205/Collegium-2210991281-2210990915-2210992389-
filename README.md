@@ -1,6 +1,5 @@
 # Project Title: Collegium (2210991281, 2210990915, 2210992389)
-#Project link - https://collegium-2210991281-2210990915-2210992389-3dp2td0nk.vercel.app/
-
+#Project link - https://collegium-2210991281-2210990915-221.vercel.app?_vercel_share=Ooh6zfChBFjwQOxJJikfTqFyETPz04jM
 ## Project Type:
 Copyright
 
